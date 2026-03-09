@@ -1,4 +1,5 @@
 # cv-typescript
+
 Simple cv-typescript example
 
 ## Overview
@@ -20,3 +21,10 @@ To run the CV example:
 ## Future Plans
 - Add more features to the CV
 - Improve styling
+
+## Acknowledgements
+- Thanks to contributors who helped improve this project.
+- Built with love and coffee ☕
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
