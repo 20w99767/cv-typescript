@@ -24,7 +24,9 @@ To run the CV example:
 
 ## Acknowledgements
 - Thanks to contributors who helped improve this project.
-- Built with love and coffee ☕
+- Built with love and coffee 
+
+- This project follows the MIT License.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
